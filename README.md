@@ -65,7 +65,7 @@ The other tools and technologies I often use:
 [![cmake](https://img.shields.io/badge/cmake-grey?style=for-the-badge&logo=cmake)](https://cmake.org/cmake/help/latest/)
 [![scylladb](https://img.shields.io/badge/scylladb-grey?style=for-the-badge&logo=scylladb)](https://www.scylladb.com/devhub/)
 
-💀 Technologies that I have limited knowledge of and rarely use:
+💀 Technologies that I have limited experience and rarely use:
 
 ![unity](https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=unity) ![angular](https://img.shields.io/badge/Angular-purple?style=for-the-badge&logo=angular) ![elastic](https://img.shields.io/badge/elasticsearch-grey?style=for-the-badge&logo=elasticsearch)
 ![mongodb](https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb) ![rabbitmq](https://img.shields.io/badge/rabbitmq-grey?style=for-the-badge&logo=rabbitmq) ![kafka](https://img.shields.io/badge/Apache_Kafka-grey?style=for-the-badge&logo=apachekafka)
@@ -75,6 +75,8 @@ Either I didn't like them *(\*cough\* Angular, \*cough\* MongoDB)* or I don't ha
 -------
 
 <div align="center">
+ 
+*Shilling Section*
 
 [![htmx_banner](https://htmx.org/img/createdwith.jpeg)](https://hypermedia.systems/hypermedia-systems/)
 
