@@ -4,7 +4,6 @@
 
 [![email](https://img.shields.io/badge/pm@smdd.dev-grey?style=for-the-badge&logo=protonmail)](mailto:pm@smdd.dev)
 [![sketchfab](https://img.shields.io/badge/sketchfab-grey?style=for-the-badge&logo=sketchfab)](https://sketchfab.com/SuperiorOne)
-[![linkedIn](https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/timur-olur)
 [![smdd.dev](https://img.shields.io/badge/smdd.dev-grey?style=for-the-badge)](https://smdd.dev)
 
 </div>
